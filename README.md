@@ -1,1 +1,5 @@
 # Sharkfin_Extruder
+Sharkfin is a lightweight BMG gear based extruder, using the Sherpa Mini mounting standard.  This extruder is based on [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder), and the license carries over from there.
+
+Sharkfin can make use of standard BMG extruder components, as well as the new RIDGA from BMG(my preference). There is an optional front piece with the added mounting ear, compatible with the [XOL Toolhead](https://github.com/Armchair-Engineering/Xol-Toolhead).  There are two optional smooth idler tension arms included in the STLs: one that uses a single 5x8x2.5 bmg bearing on a 5mm shaft, and another that uses two of the same bearing rather than one.  These are experimental, and it's currently unclear if there will be a difference between the two.  They may help with "issue 6", if its coming from runout on the drive gear, or backlash between the two drive gears.  I prefer to use RIDGA with a standard idler gear for maximum push.  The smooth idlers are simply an option. Please let me know if you try them and have any feedback!
+
