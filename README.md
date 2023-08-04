@@ -53,5 +53,19 @@ The last heatset goes in the Rear body:
 
 ![](images/rear_heatset_5.png)
 
+
 ## Build
 The build should be fairly self explanatory, based on the parts and pictures.  The build up for the BMG drive stack, from the front, is: bearing,0.5mm shim,drive gear, 50t gear, bearing.  Don't forget the shim.  It aligns the drive gear properly with the filament path.  RIDGA also needs the 0.5mm shim.  The 3mm pin for the Thumb lever pivot will be a couple mm too long.  I usually leave the extra hanging out the back of the extruder, since it intereferes with nothing and cant be seen there.  If you have any feedback for Sharkfin feel free to open an issue, or dm me on discord.  
+
+
+## Thanks
+Thanks to Ocho Camino for an awesome extruder to build on.
+
+Also thanks to the Annex guys for kicking so much ass on the Sherpa extruders.  Those things are so refined and stripped down to the essentials, I didnt even feel any urge to try and compete with em(cause u cant improve on em for compact light bmg extruders really, at least i couldnt).  Instead I could lean into my own love of overkill, without worrying about the weight of this thing.  Sherpa also provides the mount I'm using, so another nod to that!
+
+Thanks again to Hartk for taking the time to help with this.  If it wasnt for his help and advice, I wouldnt even be making parts.
+
+Thanks to Clee for everything here.  He introduced me to Sailfin.  He convinced me to rework it for Voron Heatserts.  He even convinced me to keep the point that led to it becoming Sharkfin, where I would have snubbed it.  Style points all round.  Thanks mate!
+
+## Links
+Old Sharkfin and Sailfin for Voron Heatserts still live on [my fork of Sailfin](https://github.com/KayosMaker/Sailfin-Extruder).
