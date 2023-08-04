@@ -15,6 +15,7 @@ The three tension arm idler options are shown below.  Both smooth idlers are cen
 ![](images/bis_inset.png)
 
 As mentioned above, this extruder includes built in support around the opening in the filament path.  These images show the support and where to manipulate it.  The two .4mm bridges circled in red need to be cut with side cutters or a knife.  They are placed where you can't hurt anything if u mar the surrounding plastic.  Once the little bridges are cut, the support piece is mostly free.  With a pair of needle nose pliers, grab the support at the spot circled in yellow.  Give a gentle twisting motion around the axis of the filament path, and the support should come right out. If it doesn't come out easily, your extrusion multiplier may be too high.  Once the support is out, I like to carefully run a 2mm drillbit through the filament path from both sides.
+
 ![](images/bis_detail.png)
 
 ## BOM
@@ -49,7 +50,8 @@ There are 5 heatserts that need to be installed.  The first 4 are all in the Mid
 ![](images/mid_heatsets_4.png)
 
 The last heatset goes in the Rear body:
+
 ![](images/rear_heatset_5.png)
 
 ## Build
-The build should be fairly self explanatory, based on the parts and pictures.  The build up for the BMG drive stack, from the front, is: bearing,0.5mm shim,drive gear, 50t gear, bearing.  Don't forget the shim.  It aligns the drive gear properly with the filament path.  RIDGA also needs the 0.5mm shim.  The 3mm pin for the Thumb lever will be a couple mm too long.  I usually leave the extra hanging out the back of the extruder, since it intereferes with nothing and cant be seen there.  If you have any feedback for Sharkfin feel free to open an issue, or dm me on discord.
+The build should be fairly self explanatory, based on the parts and pictures.  The build up for the BMG drive stack, from the front, is: bearing,0.5mm shim,drive gear, 50t gear, bearing.  Don't forget the shim.  It aligns the drive gear properly with the filament path.  RIDGA also needs the 0.5mm shim.  The 3mm pin for the Thumb lever pivot will be a couple mm too long.  I usually leave the extra hanging out the back of the extruder, since it intereferes with nothing and cant be seen there.  If you have any feedback for Sharkfin feel free to open an issue, or dm me on discord.  
