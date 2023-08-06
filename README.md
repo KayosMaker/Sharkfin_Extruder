@@ -57,6 +57,10 @@ The last heatset goes in the Rear body:
 ## Build
 The build should be fairly self explanatory, based on the parts and pictures.  The build up for the BMG drive stack, from the front, is: bearing,0.5mm shim,drive gear, 50t gear, bearing.  Don't forget the shim.  It aligns the drive gear properly with the filament path.  RIDGA also needs the 0.5mm shim.  The 3mm pin for the Thumb lever pivot will be a couple mm too long.  I usually leave the extra hanging out the back of the extruder, since it intereferes with nothing and cant be seen there.  If you have any feedback for Sharkfin feel free to open an issue, or dm me on discord.  
 
+## Usermods
+Mod|Description|Link
+|:--------:|:-------------------------:|:-----------------:|
+StackingDeez Destealthed Sharkfin Light|Currently experimental destealthed and lightened version of Sharkfin| [Sharkfin Light](usermods/StackingDeezLayers/)
 
 ## Thanks
 Thanks to Ocho Camino for an awesome extruder to build on.
