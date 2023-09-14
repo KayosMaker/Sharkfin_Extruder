@@ -60,7 +60,7 @@ The build should be fairly self explanatory, based on the parts and pictures.  T
 ## Usermods
 Mod|Description|Link
 |:--------:|:-------------------------:|:-----------------:|
-StackingDeez Destealthed Sharkfin Light|Currently experimental destealthed and lightened version of Sharkfin| [Sharkfin Light](usermods/StackingDeezLayers/)
+StackingDeezLayers stealth-less Sharkfin| Mostly destealthed Sharkfin| [Stealth-less Sharkfin](usermods/StackingDeezLayers/)
 
 ## Thanks
 Thanks to Ocho Camino for an awesome extruder to build on.
